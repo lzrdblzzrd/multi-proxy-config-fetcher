@@ -62,8 +62,5 @@ jobs:
         git add assets/channel_stats_chart.svg
         git add assets/performance_report.html
         git add README.md
-        git add README_FA.md
-        git add README_CN.md
-        git add README_RU.md
         git commit -m "Update proxy configs, stats and reports" || echo "No changes to commit"
         git push
