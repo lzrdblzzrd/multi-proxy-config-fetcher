@@ -150,8 +150,6 @@ vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity
 
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%A6%F0%9D%97%B8%F0%9D%98%86%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC_%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%40
 
-vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#INT🌍
-
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?security=none&encryption=none&type=ws&host=google.com&path=%2fvless%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%208
 
 vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:42557?security=reality&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f430927d#%3E%3E%40configV2rayNG%3A%3ACA
@@ -502,6 +500,8 @@ vless://5501f384-03b9-4dda-8d4c-4904e3fd7361@direct-jde6zos4zet26b15zzd1.appcity
 
 vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80?encryption=none&type=ws&host=google.com&path=%2fvless%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2031
 
+vless://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=http&fp=chrome&spx=/ads/TELEGRAM--BYA--KANAL--JKVPN&type=tcp&sni=google.com&sid=61781e31#INT🌍
+
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%3E%3E%40configV2rayNG%3A%3AUS
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?security=tls&encryption=none&sni=ovhwuxian.pai50288.uk&fp=random&type=ws&host=ovhwuxian.pai50288.uk&path=%2f57ba2ab1#%f0%9f%87%ba%f0%9f%87%b8%20US%20438
@@ -784,6 +784,8 @@ vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=w
 
 vless://b0ff01b1-04d3-4b01-8b%619-b1dc47416c07@15.235.45.229:40853?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%3E%3E%40mehrosaboran%3A%3ACA
 
+vless://b314947a-e90e-4f46-b2ec-3fd172e0c6d1@141.227.180.68:10056?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#INT🌍
+
 vless://b33105c5-%6537d-4%61d1-%613b9-102390b3%651b8@141.227.136.29:13833?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%3E%3E%40mehrosaboran%3A%3ABE
 
 vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2019
@@ -1042,8 +1044,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&securit
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%E2%9A%92%EF%B8%8F%20Test
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#INT🌍
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%206
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL
@@ -1153,8 +1153,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A1%20ir%2015
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AES
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dnraacl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AFR
 
@@ -2052,6 +2050,8 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%3E%3E%40DailyV2RY%3A%3ANL
 
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#INT🌍
+
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#nitru-%F0%9F%87%A8%F0%9F%87%B5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing`
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#%3E%3E%40configV2rayNG%3A%3AMD
@@ -2221,8 +2221,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#%3E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%3E%3E%40v2ray1_ng%3A%3AFI
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#%3E%3E%40v2rayngvpn%3A%3AGB
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#%3E%3E%40DailyV2RY%3A%3ANL
 
@@ -2804,13 +2802,13 @@ trojan://telegram-id-directvpn@15.237.67.108:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.122.175.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@3.72.215.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@35.181.214.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.93.147:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.28.87.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@54.93.126.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.179.125.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -2826,13 +2824,13 @@ trojan://telegram-id-privatevpns@15.237.67.108:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@3.122.175.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.72.215.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
 trojan://telegram-id-privatevpns@35.181.214.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.181.93.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.28.87.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
+trojan://telegram-id-privatevpns@54.93.126.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.125.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
