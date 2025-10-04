@@ -287,8 +287,7 @@ class ConfigToSingbox:
                 },
                 "ntp": {"enabled": True, "server": "time.cloudflare.com", "server_port": 123, "domain_resolver": "dns-direct", "interval": "30m", "write_to_system": False},
                 "experimental": {
-                    "cache_file": {"enabled": True, "store_fakeip": True},
-                    "clash_api": {"external_controller": "127.0.0.1:9090", "external_ui": "ui", "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip", "external_ui_download_detour": "direct", "default_mode": "Rule"}
+                    "clash_api": {"external_controller": "127.0.0.1:9090", "default_mode": "Rule"}
                 }
             }
 
